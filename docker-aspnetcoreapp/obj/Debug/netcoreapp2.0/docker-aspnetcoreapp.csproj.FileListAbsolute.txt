@@ -1,0 +1,11 @@
+C:\Users\Todor\source\repos\docker-aspnetcoreapp\docker-aspnetcoreapp\bin\Debug\netcoreapp2.0\docker-aspnetcoreapp.deps.json
+C:\Users\Todor\source\repos\docker-aspnetcoreapp\docker-aspnetcoreapp\bin\Debug\netcoreapp2.0\docker-aspnetcoreapp.runtimeconfig.json
+C:\Users\Todor\source\repos\docker-aspnetcoreapp\docker-aspnetcoreapp\bin\Debug\netcoreapp2.0\docker-aspnetcoreapp.runtimeconfig.dev.json
+C:\Users\Todor\source\repos\docker-aspnetcoreapp\docker-aspnetcoreapp\bin\Debug\netcoreapp2.0\docker-aspnetcoreapp.dll
+C:\Users\Todor\source\repos\docker-aspnetcoreapp\docker-aspnetcoreapp\bin\Debug\netcoreapp2.0\docker-aspnetcoreapp.pdb
+C:\Users\Todor\source\repos\docker-aspnetcoreapp\docker-aspnetcoreapp\obj\Debug\netcoreapp2.0\docker-aspnetcoreapp.csprojResolveAssemblyReference.cache
+C:\Users\Todor\source\repos\docker-aspnetcoreapp\docker-aspnetcoreapp\obj\Debug\netcoreapp2.0\docker-aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\Users\Todor\source\repos\docker-aspnetcoreapp\docker-aspnetcoreapp\obj\Debug\netcoreapp2.0\docker-aspnetcoreapp.AssemblyInfoInputs.cache
+C:\Users\Todor\source\repos\docker-aspnetcoreapp\docker-aspnetcoreapp\obj\Debug\netcoreapp2.0\docker-aspnetcoreapp.AssemblyInfo.cs
+C:\Users\Todor\source\repos\docker-aspnetcoreapp\docker-aspnetcoreapp\obj\Debug\netcoreapp2.0\docker-aspnetcoreapp.dll
+C:\Users\Todor\source\repos\docker-aspnetcoreapp\docker-aspnetcoreapp\obj\Debug\netcoreapp2.0\docker-aspnetcoreapp.pdb

@@ -1,0 +1,1 @@
+C:\Users\Todor\source\repos\docker-aspnetcoreapp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
